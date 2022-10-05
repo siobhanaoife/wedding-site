@@ -1,0 +1,25 @@
+body {
+ background-color: white;
+ }
+ hr {
+   border-style: none;
+   border-top-style: dotted;
+   border-color: #748DA6;
+   border-width: 5px;
+   width: 70%
+}
+
+ .title {
+   color: navy;
+   font-family: "Cinzel";
+ }
+
+ .date {
+   color: #748DA6;
+   font-family: "Tangerine";
+ }
+button {
+ color: navy;
+ background-color: #D3CEDF ;
+ border-color: navy;
+}
